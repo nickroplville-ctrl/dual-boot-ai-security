@@ -166,11 +166,17 @@ See "AI Agent Installation" section below.
 - Blockchain auto-memory (Autonomys)
 
 ---
+## Полные гайды
 ## Full Guides
 
-- [AI Agent Setup](docs/setup-agents.md)
-- [Security Details](docs/security.md)
-
+- [Troubleshooting (English)](docs/troubleshooting(EN).md)
+- [Troubleshooting (Русский)](docs/troubleshooting(RU).md)
+- [Security Details (English)](docs/security(en).md)
+- [Детали безопасности (Русский)](docs/security(RU).md)
+- [AI Agent Setup (English)](docs/setup-agents(EN).md)
+- [Установка AI-агентов (Русский)](docs/setup-agents(RU).md)
+- [Security Checklist](docs/checklist(RU\EN).md)
+- [Partition Script](scripts/setup-partition(RU\EN).ps1)
 ---
 
-## License
+## MIT License
