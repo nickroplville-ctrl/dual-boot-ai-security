@@ -1,0 +1,15 @@
+# API keys and secrets
+.env
+.env.local
+.env.*.local
+config.yaml
+*.key
+*.pem
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.tmp
