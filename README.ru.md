@@ -173,7 +173,3 @@ MIT
 
 ## Полные гайды
 
-- [Guide for Beginners (English)](docs/guide-for-beginners-en.md)
-- [Гайд для чайников (Русский)](docs/guide-for-beginners-ru.md)
-- [Установка AI-агентов](docs/setup-agents.md)
-- [Детали безопасности](docs/security.md)
