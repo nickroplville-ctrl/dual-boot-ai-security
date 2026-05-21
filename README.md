@@ -168,8 +168,6 @@ See "AI Agent Installation" section below.
 ---
 ## Full Guides
 
-- [Guide for Beginners (English)](docs/guide-for-beginners-en.md)
-- [Гайд для чайников (Русский)](docs/guide-for-beginners-ru.md)
 - [AI Agent Setup](docs/setup-agents.md)
 - [Security Details](docs/security.md)
 
